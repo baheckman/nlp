@@ -1,0 +1,4 @@
+For this project, I wanted to compare various works of Charles Dickens, and determine if there is an underlying tone in his works.
+Dickens is known to be a somber and dark author, often dealing with very bleak topics, and I want to determine if I can verify this based on the text alone.
+I collected the texts from the gutenberg website (http://www.gutenberg.org/ebooks/search/?query=charles+dickens)
+I copied each of them into a text file, and removed some gutenberg related text (but saved this text in another document so it is still there).
